@@ -1,0 +1,9 @@
+﻿python-telegram-bot>=20
+sentence-transformers>=2.2
+numpy>=1.24
+requests>=2.31
+openai>=1.0
+Pillow>=10.0
+transformers>=4.40
+torch>=2.1
+python-dotenv>=1.0
